@@ -1,4 +1,4 @@
-### DORMITORY MANAGERMENT SERVICE API
+### DORMITORY MANAGEMENT SERVICE API
 1. Get data from database using **GET** method from **localhost:3000/duty** 
 2. Send data to database using **POST** method to **localhost:3000/duty**
 3. Get and send data as **JSON** 
